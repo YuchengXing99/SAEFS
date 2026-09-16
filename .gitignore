@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
+# experiment output
+results/
+*.pt
+*.pth
+*.npy
+*.pkl
+*.h5
+
+# ...but the released weights behind the reported numbers are part of the repo
+!checkpoints/*.pt
+
+# never commit cohort data
+data/
+splits/
