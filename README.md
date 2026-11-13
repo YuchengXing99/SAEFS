@@ -234,11 +234,11 @@ NLST slide identifiers do not encode the case, so that setting needs
 ## Citation
 
 ```bibtex
-@article{saefs,
-  title  = {Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis},
-  author = {TODO},
-  year   = {TODO},
-  journal= {TODO}
+@inproceedings{xing2026saefs,
+  title={Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis},
+  author={Xing, Yucheng and Huang, Ling and Liu, Pei and Ma, Jingying and Xu, Jiaxing and He, Kai and Feng, Mengling},
+  booktitle={Computer Vision -- ECCV 2026},
+  year={2026}
 }
 ```
 
